@@ -39,7 +39,7 @@ body {
   font-size: 100%; }
 
 body {
-  background: white;
+  background: #ccf600;
   color: #222222;
   padding: 0;
   margin: 0;
@@ -99,7 +99,10 @@ textarea {
 
 select {
   width: 100%; }
-
+#titular {
+  font-size:1.1em;
+  text-align: center;
+}
 .xy-center {
   position: absolute;
   top: 50%;
